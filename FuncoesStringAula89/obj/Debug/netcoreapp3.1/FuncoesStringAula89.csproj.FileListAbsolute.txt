@@ -1,0 +1,11 @@
+C:\Users\aalima5\Desktop\Code C#\FuncoesStringAula89\FuncoesStringAula89\bin\Debug\netcoreapp3.1\FuncoesStringAula89.exe
+C:\Users\aalima5\Desktop\Code C#\FuncoesStringAula89\FuncoesStringAula89\bin\Debug\netcoreapp3.1\FuncoesStringAula89.deps.json
+C:\Users\aalima5\Desktop\Code C#\FuncoesStringAula89\FuncoesStringAula89\bin\Debug\netcoreapp3.1\FuncoesStringAula89.runtimeconfig.json
+C:\Users\aalima5\Desktop\Code C#\FuncoesStringAula89\FuncoesStringAula89\bin\Debug\netcoreapp3.1\FuncoesStringAula89.runtimeconfig.dev.json
+C:\Users\aalima5\Desktop\Code C#\FuncoesStringAula89\FuncoesStringAula89\bin\Debug\netcoreapp3.1\FuncoesStringAula89.dll
+C:\Users\aalima5\Desktop\Code C#\FuncoesStringAula89\FuncoesStringAula89\bin\Debug\netcoreapp3.1\FuncoesStringAula89.pdb
+C:\Users\aalima5\Desktop\Code C#\FuncoesStringAula89\FuncoesStringAula89\obj\Debug\netcoreapp3.1\FuncoesStringAula89.csprojAssemblyReference.cache
+C:\Users\aalima5\Desktop\Code C#\FuncoesStringAula89\FuncoesStringAula89\obj\Debug\netcoreapp3.1\FuncoesStringAula89.AssemblyInfoInputs.cache
+C:\Users\aalima5\Desktop\Code C#\FuncoesStringAula89\FuncoesStringAula89\obj\Debug\netcoreapp3.1\FuncoesStringAula89.AssemblyInfo.cs
+C:\Users\aalima5\Desktop\Code C#\FuncoesStringAula89\FuncoesStringAula89\obj\Debug\netcoreapp3.1\FuncoesStringAula89.dll
+C:\Users\aalima5\Desktop\Code C#\FuncoesStringAula89\FuncoesStringAula89\obj\Debug\netcoreapp3.1\FuncoesStringAula89.pdb
